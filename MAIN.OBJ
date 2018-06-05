@@ -1,0 +1,310 @@
+€ PROJEC~2.CPPâˆ   TC86 Borland Turbo C++ 3.00‘ˆ  é’eEPROJEC~2.CPP’ˆ   é RC:\TC\INCLUDE\IOSTREAM.H×ˆ  é RC:\TC\INCLUDE\_DEFS.HÀˆ  é RC:\TC\INCLUDE\MEM.Hfˆ  é RC:\TC\INCLUDE\_NULL.H§ˆ  é RC:\TC\INCLUDE\CONIO.HÉˆ  é RC:\TC\INCLUDE\STDIO.H¾ˆ  é RC:\TC\INCLUDE\DOS.H_ˆ  é RC:\TC\INCLUDE\PROCESS.Hˆ  é RC:\TC\INCLUDE\STRING.Hhˆ  é RC:\TC\INCLUDE\FSTREAM.H+ˆ  å  Œˆ  ø@book@copynxt$qiˆ
+  ã  ?ˆ  æn
+ this #ˆ  å ˆ  æthisnˆ  çv ˆ  çv ˆ
+  î   r ˆ  åv ˆ  ø@book@edit$qv†ˆ  æthis ¬ˆ  å€ ˆ  årˆ
+  æchüÿºˆ  ç,^ˆ  æcşÿthis<ˆ  ç1Yˆ  ç1Yˆ(  îv € § ª ³ º bqy‘¥¹é*,Òˆ  å?Kˆ  ø@book@search$qpzc×ˆ
+  ã  Tˆ  æs
+ this ˆ  åCGˆ  æithis s
+ ‹ˆ  çsˆ  çsˆ  î?CG^`bckp:ˆ  åsˆ  ø@book@copy$q4book ˆ  æa
+ this ˆ  åzˆ  æthisa
+ ˆ  ç¾Ìˆ  ç¾Ìˆ
+  îsz»Ñˆ  å¾Ìˆ  ø@book@setstatus$qi?ˆ  æa
+ this 0ˆ  åÉÁˆ  æthisa+ˆ  ç|ˆ  ç|ˆ  î¾ÉÎßäõú	Tˆ  å|ˆ  ø@book@checkstatus$qv|ˆ  æthis ¬ˆ  åyˆ  æthis ¬ˆ  ç/Zˆ  ç/Zˆ  î$')-©ˆ  å/Zˆ  ø@book@correctrate$qv€ˆ  æthis ¬ˆ  å7Rˆ  æithis+ˆ  çV3ˆ  çV3ˆ  î/7;CIJR™ˆ  åV3ˆ  ø@usinfo@copynxt$qi1ˆ
+  ã  9ˆ  æn
+ this  ˆ  åa(ˆ  æthisnˆ  çè¡ˆ  çè¡ˆ
+  îVaäÛˆ  åè¡ˆ  ø@usinfo@calfee$qvÛˆ  æthis ©ˆ  åó–ˆ$  â da_year da_day da_monÀ   îˆ  ãdate ¨ˆ	  ã  Jˆ	  ã  Iˆ"  ætğÿcbôÿaúÿthis§ˆ  ç»Íˆ  ç»Íˆ  îèóXa‰’µùˆ  å»Íˆ	  æx
+  ˆ  å¿Éˆ  æix
+ ƒˆ  ç€ˆ  ç€ˆ  î»¿ÃĞÑÖÚñò÷Öˆ  å€ˆ  å
+}ˆ  ç%bˆ  ç%bˆ
+  î
+#<ˆ  å%bˆ  å(_ˆ  ç*]ˆ  ç*]ˆ  î%(*ˆ  å*]ˆ  å-Zˆ  ç´Óˆ  ç´Óˆ
+  î*-²gˆ  å´Óˆ  å·Ğˆ  çÓ´ˆ  çÓ´ˆ
+  î´·Ñ4ˆ  åÓ´ˆ  åÖ±ˆ  çü‹ˆ  çü‹ˆ
+  îÓÖúÍˆ  åü‹ˆ  åƒˆ	  ã   <ˆ  ækşÿipw êÿ¢ˆ  çZ,ˆ  çZ,ˆ  îü36LOQUXˆ  åZ,ˆ  åa%ˆ  æinşÿšˆ  ç®Øˆ  ç®Øˆ  îZa‚ ¡¦©€ˆ  å®Øˆ  å²Ôˆ  æiˆ  çiˆ  çiˆ  î®²¹Ó×ãçñYˆ  åiˆ  å$aˆ  åe ˆ  æjˆ  ç­Øˆ  æifüÿdşÿ6ˆ  çÒ³ˆ  çÒ³ˆ   î$Qei}~„­®¶¼ÉÌÇˆ  åÒ³ˆ  åÚ«ˆ  æifeşÿ(ˆ  çM7ˆ  çM7ˆ  îÒÚ*+37DGˆ  åM7ˆ  åT0ˆ	  ã!  1ˆ  æks!âÿ’ˆ  çÇ½ˆ  çÇ½ˆ  îMT‡–¿Â
+ˆ  åÇ½ˆ  åÏµˆ  å	rˆ	  æjüÿˆ  çÀ	Ãˆ  æikşÿf"ˆ  çæ	ˆ  çæ	ˆ&  îÇÏú		+	A	D	M	a	p	À	Á	Ì	Ğ	İ	à	qˆ  åæ	ˆ	  æc
+ ˆ  åî	•ˆ  åS
+/ˆ  æjˆ  çË
+·ˆ  æifşÿc
+ %ˆ  ç!`ˆ  ç!`ˆ6  îæ	î	
+
+#
+7
+S
+W
+{
+
+†
+‰
+š
+›
+£
+§
+»
+¼
+Â
+Ë
+Ì
+×
+İ
+!ˆ  å!`ˆ  å%\ˆ  æiˆ  çòˆ  çòˆ  î!%,FJVZd€‰Œ½ˆ  åòˆ  å—êˆ	  ã#  /ˆ	  ã$  Gˆ(  æifout2"@ÿfout"ÿpr#Üÿr$úÿ±ˆ  ç’íˆ  ç’íˆN  î—ãèëõ"(7=CIO^djp…‹š ¥¨²'(04NOW*ˆ  å’íˆ  å˜çˆ
+  æchşÿ¸ˆ  çÁ½ˆ  çÁ½ˆ$  î’˜[^cjy~ƒ’¡¦¨­º½¸ˆ  åÑ­ˆ  å×§ˆ
+  æchşÿ¸ˆ  çßˆ  çßˆ&  îÑ×Ú•œ¡¤«º¿ÄÆËØÛ&ˆ  åíˆ  åõˆˆ  å“éˆ  åjˆ  æküÿc¤ˆ  çrˆ
+  æchşÿ¸ˆ  çŠğˆ  æiˆ  ç“çˆ  ç“çˆ8  îíõ*16[_d‰“$ª¿õlrzŠœˆ  åÀ  Ëˆ  ø@ostream@$blsh$qpxzc²ˆ
+  ã%  &%ˆ
+  ã'  Gˆ  æ_s'
+ this% ˆ  åÀ Äˆ  æthis%_s'
+ Šˆ  ç qˆ  ç qˆ  îÀ    Ÿˆ  åÀ  Êˆ  ø@book@assign$qi°ˆ  æa
+ this 0ˆ  åÀ ¿ˆ  æthisa+ˆ  ç€ ˆ  ç€ ˆ!  îÀ    ! & 7 < M R c h m p | ˆ  åÀ  Éˆ  ø@book@get$qvîˆ  æthis ¬ˆ  åÀ
+ ¿ˆ  æchşÿthisÒˆ  ç¯ İˆ  ç¯ İˆ  îÀ  
+ ª ˆ  åÀ  Èˆ  ø@book@put$qvÕˆ  æthis ¬ˆ  åÀ Áˆ  æthis©ˆ  çœ ğˆ  çœ ğˆ  îÀ   ™ ˆ  åÀ  Çˆ)  ø%@ostream@$blsh$qpqr7ostream$r7ostreamˆ
+  ã*  4&ˆ  ã)   #*  ˆ
+  ã(  )!ˆ  æ_f(
+ this% ™ˆ  åÀ Äˆ  æthis% _f(
+ ™ˆ  ç ~ˆ  ç ~ˆ  îÀ    «ˆ  åÀ  Æˆ  ø@book@ret$qvãˆ  æthis ¬ˆ  åÀ ¿ˆ  æthis©ˆ  ç ~ˆ  ç ~ˆ  îÀ    §ˆ  åÀ  Åˆ  ø@ostream@$blsh$qiˆ  æ_i
+ this% ºˆ  åÀ Âˆ  æthis% _i
+ ºˆ  ç vˆ  ç vˆ  îÀ    ¡ˆ  åÀ  Äˆ  ø@usinfo@get$qiˆ  æa
+ this -ˆ  åÀ ½ˆ  æthisa
+ *ˆ  çƒ 	ˆ  çƒ 	ˆ  îÀ   € 0ˆ  åÀ	  Ãˆ  ø@usinfo@put$qvèˆ  æthis ©ˆ  åÀ	 ¼ˆ  æthis¦ˆ  çä ¨ˆ  çä ¨ˆ  îÀ	   á Îˆ  åÀ
+  Âˆ  ø@usinfo@ret$qvöˆ  æthis ©ˆ  åÀ
+ »ˆ  æthis¦ˆ  ç ~ˆ  ç ~ˆ  îÀ
+    £ˆ  åÀ  Áˆ  ø@ios@$bnot$qvµˆ
+  ã+  ,ˆ  æthis+ ™ˆ  åÀ ¾ˆ  æthis+ ™ˆ  ç ~ˆ  ç ~ˆ  îÀ    ¥ˆ  åÀ  Àˆ  ø@ios@$opv$qvˆ  æthis+ ™ˆ  åÀ ¹ˆ  æthis+–ˆ  ç qˆ  ç qˆ  îÀ       Tˆ  åÀ  ¿ˆ  ø@ios@fail$qvòˆ  æthis+ ™ˆ  åÀ ¸ˆ  æthis+–ˆ  ç zˆ  ç zˆ  îÀ    œˆ  å“çˆ  å–äˆ  çÊ°ˆ  çÊ°ˆ
+  î“–ÈXˆ  åÊ°ˆ  åÍ­ˆ  çé‘ˆ  çé‘ˆ
+  îÊÍçËˆ  éŒˆ  ê	{–H  _TEXTCODE_DATADATA_BSSBSS_INIT_INITDATA_EXIT_EXITDATADGROUP	˜ (é8˜ Hè8ï˜ H  ˜ H 	˜ H 
+ı° @ostream@$blsh$qpxzc e° @book@assign$qi €ş° @book@get$qv ¯ Š° @book@put$qv œ „°* %@ostream@$blsh$qpqr7ostream$r7ostream È° @book@ret$qv £° @ostream@$blsh$qi Ì° @usinfo@get$qi ƒ Ö° @usinfo@put$qv ä O° @usinfo@ret$qv ¶° @ios@$bnot$qv u° @ios@$opv$qv È° @ios@fail$qv ®š ÿÿQˆ	  ã- d ßˆ	  ã. ( ˆ	  ã/  #ˆ  ã0   -  @usinfo@get$qiœˆ  ã2   -  @usinfo@put$qvtˆ  ã4   -  @usinfo@ret$qv}ˆ   ã6   -  @usinfo@copynxt$qi»ˆ  ã8   -  @usinfo@calfee$qv^ˆ  â bkno addr- email. ph d fee name/H@usinfo@get$qi0H@usinfo@put$qv2H@usinfo@ret$qv4H@usinfo@copynxt$qi6H@usinfo@calfee$qv8À¸   Óˆ  ãusinfo¸ .èˆ	  í     €ˆ  ã:   -  @usinfo@ret$qvwˆ  ì@usinfo@ret$qv:®ˆ  ì@usinfo@put$qv2¨ˆ  ì@usinfo@get$qi0Ğˆ	  ã<  ˆ	  ã=  ˆ	  ã> 
+ (ˆ	  ã?  ˆ	  ã@  +ˆ  ãA   -  @book@assign$qi0ˆ  ãC   -  @book@get$qvlˆ  ãE   -  @book@put$qvQˆ  ãG   -  @book@ret$qvZˆ  ãI   -  @book@copynxt$qi˜ˆ  ãK   -  @book@edit$qvşˆ  ãM   -  @book@search$qpzcJˆ  ãO   -  @book@copy$q4booktˆ   ãQ   -  @book@setstatus$qi±ˆ"  ãS   -  @book@checkstatus$qvéˆ"  ãU   -  @book@correctrate$qvîˆ â bno bname< author= cate> status? rate@H@book@assign$qiAH@book@get$qvCH@book@put$qvEH@book@ret$qvGH@book@copynxt$qiIH@book@edit$qvKH@book@search$qpzcMH@book@copy$q4bookOH@book@setstatus$qiQH@book@checkstatus$qvSH@book@correctrate$qvUÀW   vˆ  ãbookW .:ˆ	  í     ˆ  ãW   -  @book@ret$qvJˆ  ì@book@ret$qvW~ˆ  ì@book@put$qvE‚ˆ  ì@book@get$qvCˆ  ì@book@assign$qiAaŒ @ofstream@$bdtr$qv ‘ˆR  ä @ios@goodbit   @ios@eofbit  @ios@failbit  @ios@badbit €@ios@hardfail€ ,ˆ  ãZio_state "  €ÿ¤ˆr  ä @ios@in  @ios@out  @ios@ate  @ios@app  
+@ios@trunc  @ios@nocreate   @ios@noreplace@ €@ios@binary€ —ˆ  ã\	open_mode "  €ÿBˆ'  ä @ios@beg   @ios@cur €@ios@end Âˆ  ã^seek_dir "  €ÿ²ˆ%  ã`   -+ , @ios@$bctr$qp9streambufÓˆ  ãb   - , @ios@$bdtr$qv
+ˆ  ãd   - 	, ¼ˆ  ãf   - , @ios@flags$qlÎˆ  ãh   - , @ios@setf$qll»ˆ  ãj   - , @ios@setf$ql'ˆ  ãl   - , @ios@unsetf$ql>ˆ  ãn   - 	, ´ˆ  ãp   - 	, ²ˆ  ãr   - 	, ²ˆ  ãt   - 	, °ˆ  ãv   - 	, ¬ˆ  ãx   - 	, ªˆ!  ãz   -% , @ios@tie$qp7ostream$ˆ  ã|   -% 	, …ˆ  ã~   - 	, ¤ˆ  ã€€   - 	, !ˆ  ã€‚   - , @ios@fail$qvšˆ  ã€„   - 	, ˆ  ã€†   - 	, ˆ  ã€ˆ   - , @ios@clear$qi9ˆ  ã€Š  dˆ  ã€‹   -€Š , @ios@$opv$qv­ˆ  ã€   - , @ios@$bnot$qvNˆ$  ã€‘   -€ € @streambuf@$bctr$qvİˆ'  ã€“   -€ € @streambuf@$bctr$qpzci•ˆ#  ã€•   - € @streambuf@$bdtr$qvçˆ(  ã€—   -€ €@streambuf@setbuf$qpzciÔˆ  ã€™   -€ 	€ ˆ)  ã€›   -€ € @streambuf@setbuf$qpzciifˆ  ã€   - 	€ ˆ  ã€Ÿ   - 	€ ˆ  ã€¡   - 	€ ˆ  ã€£   - 	€ ˆ&  ã€¥   - € @streambuf@sgetn$qpzci=ˆ)  ã€§   - €@streambuf@do_sgetn$qpzciˆ'  ã€©   - €@streambuf@underflow$qv¿ˆ  ã€«   - 	€ ˆ'  ã€­   - €@streambuf@pbackfail$qi ˆ  ã€¯   - 	€ ˆ  ã€±   - 	€ ˆ'  ã€³   - € @streambuf@sputn$qpxzciœˆ*  ã€µ   - €@streambuf@do_sputn$qpxzci]ˆ&  ã€·   - €@streambuf@overflow$qiˆ  ã€¹   - 	€ ˆ/  ã€»   - €@streambuf@seekoff$ql8seek_diri­ˆ&  ã€½   - €@streambuf@seekpos$qli#ˆ"  ã€¿   - €	@streambuf@sync$qvÆˆ!  ã€Á   - € @streambuf@dbp$qvYˆ  ã€Ã   - 	€ ãˆ  ã€Å   - 	€ áˆ  ã€Ç   - 	€ õˆ  ã€É   - 	€ İˆ  ã€Ë   - 	€ Ûˆ  ã€Í   - 	€ Ùˆ  ã€Ï   - 	€ ×ˆ  ã€Ñ   - 	€ Õˆ  ã€Ó   - 	€ Óˆ&  ã€Õ   - € @streambuf@setp$qpzct19ˆ(  ã€×   - € @streambuf@setg$qpzct1t1—ˆ  ã€Ù   - 	€ æˆ  ã€Û   - 	€ äˆ'  ã€İ   - € @streambuf@setb$qpzct1iÔˆ  ã€ß   - 	€ àˆ  ã€á   - 	€ Ûˆ  ã€ã   - 	€ Ùˆ(  ã€å   - €
+@streambuf@doallocate$qv8ˆ'  ã€ç   - € @streambuf@do_snextc$qv“ˆ.  ã€é   -€ € @streambuf@$bctr$qr9streambufsˆ-  ã€ë   - € @streambuf@$basg$qr9streambufŠˆ âJ@streambuf@$bctr$qv€‘J@streambuf@$bctr$qpzci€“M@streambuf@$bdtr$qv€•L@streambuf@setbuf$qpzci€—H@streambuf@setbuf$qpuci€™H@streambuf@setbuf$qpzcii€›H@streambuf@sgetc$qv€H@streambuf@snextc$qv€ŸH@streambuf@sbumpc$qv€¡H@streambuf@stossc$qv€£H@streambuf@sgetn$qpzci€¥L@streambuf@do_sgetn$qpzci€§L@streambuf@underflow$qv€©H@streambuf@sputbackc$qzc€«L@streambuf@pbackfail$qi€­H@streambuf@in_avail$qv€¯H@streambuf@sputc$qi€±H@streambuf@sputn$qpxzci€³L@streambuf@do_sputn$qpxzci€µL@streambuf@overflow$qi€·H@streambuf@out_waiting$qv€¹L@streambuf@seekoff$ql8seek_diri€»L@streambuf@seekpos$qli€½L@streambuf@sync$qv€¿H@streambuf@dbp$qv€ÁH@streambuf@base$qv€ÃH@streambuf@ebuf$qv€ÅH@streambuf@blen$qv€ÇH@streambuf@pbase$qv€ÉH@streambuf@pptr$qv€ËH@streambuf@epptr$qv€ÍH@streambuf@eback$qv€ÏH@streambuf@gptr$qv€ÑH@streambuf@egptr$qv€ÓH@streambuf@setp$qpzct1€ÕH@streambuf@setg$qpzct1t1€×H@streambuf@pbump$qi€ÙH@streambuf@gbump$qi€ÛH@streambuf@setb$qpzct1i€İH@streambuf@unbuffered$qi€ßH@streambuf@unbuffered$qv€áH@streambuf@allocate$qv€ãL@streambuf@doallocate$qv€å@    alloc_ unbuf_ base_ ebuf_ pbase_ pptr_ epptr_ eback_ gptr_ egptr_H@streambuf@do_snextc$qv€çJ@streambuf@$bctr$qr9streambuf€éH@streambuf@$basg$qr9streambuf€ëÀ   vˆ  ã€	streambuf .Uˆ	  í     {ˆ  ã€  €Oˆ  ã€í   -€ 	, ¨ˆ  ã€ï   - , @ios@bitalloc$qvwˆ  ã€ñ   - , @ios@xalloc$qvBˆ  ã€ó  4×ˆ  ã€ô   -€ó , @ios@iword$qi<ˆ  ã€ö  4€ŠÏˆ  ã€÷   -€ö , @ios@pword$qi/ˆ&  ã€ù   - , @ios@sync_with_stdio$qvTˆ  ã€û   - , @ios@skip$qiˆ  ã€ı   -+ , @ios@$bctr$qvÅˆ%  ã€ÿ   - , @ios@init$qp9streambufúˆ  ã   - , @ios@setstate$qiSˆ  ã   #  àˆ  ã  gˆ  ã  èˆ  ã   - , @ios@usersize$qiAˆ   ã   -+ , @ios@$bctr$qr3ios7ˆ   ã
+   - , @ios@$basg$qr3iosiˆÅ âpio_stateZp	open_mode\pseek_dir^`@ios@basefield`@ios@adjustfield`@ios@floatfieldJ@ios@$bctr$qp9streambuf`M@ios@$bdtr$qvbH@ios@flags$qvdH@ios@flags$qlfH@ios@setf$qllhH@ios@setf$qljH@ios@unsetf$qllH@ios@width$qvnH@ios@width$qipH@ios@fill$qvrH@ios@fill$qzctH@ios@precision$qivH@ios@precision$qvxH@ios@tie$qp7ostreamzH@ios@tie$qv|H@ios@rdstate$qv~H@ios@eof$qv€€H@ios@fail$qv€‚H@ios@bad$qv€„H@ios@good$qv€†H@ios@clear$qi€ˆK@ios@$opv$qv€‹H@ios@$bnot$qv€H@ios@rdbuf$qv€íH@ios@bitalloc$qv€ïH@ios@xalloc$qv€ñH@ios@iword$qi€ôH@ios@pword$qi€÷H@ios@sync_with_stdio$qv€ùH@ios@skip$qi€û@    bp€ x_tie% state ispecial ospecial x_flags x_precision x_width x_fill isfx_special osfx_special delbuf assign_privateJ@ios@$bctr$qv€ıH@ios@init$qp9streambuf€ÿH@ios@setstate$qi`@ios@stdioflush`@ios@nextbit`@ios@usercount 	userwords nwordsH@ios@usersize$qiJ@ios@$bctr$qr3iosH@ios@$basg$qr3ios
+À"   şˆ  ã,ios" .ºˆ	  í     }ˆ  ã  Y‰ˆ%  ã   - Y @fstreambase@$bctr$qvÒˆ*  ã   - Y @fstreambase@$bctr$qpxzcii¥ˆ%  ã   - Y @fstreambase@$bctr$qiÛˆ)  ã   - Y @fstreambase@$bctr$qipzciˆ$  ã   - Y @fstreambase@$bdtr$qvVˆ(  ã   - Y @fstreambase@open$qpxzciiIˆ%  ã   - Y @fstreambase@attach$qi¸ˆ$  ã   - Y @fstreambase@close$qv
+ˆ(  ã   - Y @fstreambase@setbuf$qpzciMˆ"  ã!   -   @filebuf@$bctr$qvˆ"  ã#   -   @filebuf@$bctr$qi%ˆ&  ã%   -   @filebuf@$bctr$qipzcieˆ!  ã'   -   @filebuf@$bdtr$qv³ˆ  ã)   - 	  ˆ  ã+   - 	  ÿˆ&  ã-   -   @filebuf@open$qpxzciiˆ"  ã/   -   @filebuf@close$qvÅˆ#  ã1   -   @filebuf@attach$qioˆ$  ã3   -  @filebuf@overflow$qiˆ%  ã5   -  @filebuf@underflow$qv‘ˆ   ã7   -  	@filebuf@sync$qv¬ˆ-  ã9   -  @filebuf@seekoff$ql8seek_diriˆ&  ã;   -€  @filebuf@setbuf$qpzciˆ#  ã=   -   @filebuf@last_op$qvtˆ
+  ã?  ­ˆ³ â`@filebuf@openprotJ@filebuf@$bctr$qv!J@filebuf@$bctr$qi#J@filebuf@$bctr$qipzci%M@filebuf@$bdtr$qv'H@filebuf@is_open$qv)H@filebuf@fd$qv+H@filebuf@open$qpxzcii-H@filebuf@close$qv/H@filebuf@attach$qi1L@filebuf@overflow$qi3L@filebuf@underflow$qv5L@filebuf@sync$qv7L@filebuf@seekoff$ql8seek_diri9L@filebuf@setbuf$qpzci;@    xfd mode opened 	last_seek in_startH@filebuf@last_op$qv= lahead?À$   ;ˆ  ã filebuf$ .¥ˆ  í     pˆ  ã   -ˆ  ã@   - 	Y –ˆ%  ãB   - Y @fstreambase@verify$qioˆ: âJ@fstreambase@$bctr$qvJ@fstreambase@$bctr$qpxzciiJ@fstreambase@$bctr$qiJ@fstreambase@$bctr$qipzciM@fstreambase@$bdtr$qvH@fstreambase@open$qpxzciiH@fstreambase@attach$qiH@fstreambase@close$qvH@fstreambase@setbuf$qpzciH@fstreambase@rdbuf$qv@H@fstreambase@verify$qiB@    buf ÀJ   ½ˆ  ãYfstreambaseJ .ˆ  í   €òˆ*  ãD   -% & @ostream@$bctr$qp9streambufÁˆ   ãF   - & @ostream@$bdtr$qvòˆ   ãH   -% & @ostream@$bctr$qiÚˆ#  ãJ   -% & @ostream@$bctr$qipzc…ˆ  ãL   - 	& Zˆ  ãN   - 	& [ˆ   ãP   -* & @ostream@flush$qvmˆ   ãR   -* & @ostream@seekp$qlˆ)  ãT   -* & @ostream@seekp$ql8seek_diríˆ   ãV   - & @ostream@tellp$qvŒˆ  ãX   -* 	& (ˆ$  ãZ   -* & @ostream@write$qpxzcišˆ  ã\   -* 	& $ˆ!  ã^   -* & @ostream@$blsh$qzcGˆ  ã`   -* & ˆ  ãb   -* & ˆ  ãd   -* & ˆ   ãf   -* & @ostream@$blsh$qi³ˆ  ãh   -* & ˆ   ãj   -* & @ostream@$blsh$ql®ˆ!  ãl   -* & @ostream@$blsh$qul5ˆ  ãn   -* & ˆ  ãp   -* & ˆ   ãr   -* & @ostream@$blsh$qg«ˆ#  ãt   -* & @ostream@$blsh$qpxzcCˆ  ãv   -* & ˆ!  ãx   -* & @ostream@$blsh$qpv$ˆ*  ãz   -* & @ostream@$blsh$qp9streambuf„ˆ4  ã|   -* & %@ostream@$blsh$qpqr7ostream$r7ostream‘ˆ,  ã~   -* & @ostream@$blsh$qpqr3ios$r3ios	ˆ"  ã€   - & @ostream@do_opfx$qv’ˆ"  ã‚   - & @ostream@do_osfx$qvˆ   ã„   -% & @ostream@$bctr$qv‘ˆ&  ã†   - & @ostream@outstr$qpxzct1Ñˆ- âJ@ostream@$bctr$qp9streambufDM@ostream@$bdtr$qvFJ@ostream@$bctr$qiHJ@ostream@$bctr$qipzcJH@ostream@opfx$qvLH@ostream@osfx$qvNH@ostream@flush$qvPH@ostream@seekp$qlRH@ostream@seekp$ql8seek_dirTH@ostream@tellp$qvVH@ostream@put$qzcXH@ostream@write$qpxzciZH@ostream@write$qpxuci\H@ostream@$blsh$qzc^H@ostream@$blsh$quc`H@ostream@$blsh$qsbH@ostream@$blsh$qusdH@ostream@$blsh$qifH@ostream@$blsh$quihH@ostream@$blsh$qljH@ostream@$blsh$qullH@ostream@$blsh$qfnH@ostream@$blsh$qdpH@ostream@$blsh$qgrH@ostream@$blsh$qpxzctH@ostream@$blsh$qpxucvH@ostream@$blsh$qpvxH@ostream@$blsh$qp9streambufzH%@ostream@$blsh$qpqr7ostream$r7ostream|H@ostream@$blsh$qpqr3ios$r3ios~H@ostream@do_opfx$qv€H@ostream@do_osfx$qv‚J@ostream@$bctr$qv„H@ostream@outstr$qpxzct1†À&   §ˆ  ã&ostream& .ˆ  í   €ôˆ  ãˆ  "Dˆ"  ã‰   -ˆ " @ofstream@$bctr$qvCˆ'  ã‹   -ˆ " @ofstream@$bctr$qpxzciiˆ"  ã   -ˆ " @ofstream@$bctr$qiLˆ&  ã   -ˆ " @ofstream@$bctr$qipzciŒˆ!  ã‘   - " @ofstream@$bdtr$qvCˆ  ã“   - 	" zˆ  ã•   - 	" ˆ¯  âJ@ofstream@$bctr$qv‰J@ofstream@$bctr$qpxzcii‹J@ofstream@$bctr$qiJ@ofstream@$bctr$qipzciM@ofstream@$bdtr$qv‘H@ofstream@rdbuf$qv“H@ofstream@open$qpxzcii•ÀN   ¶ˆ  ã"ofstreamN .zˆ  í     mˆ  à‘Œ @ofstream@$bctr$qpxzcii gˆ  à‹‡Œ @ifstream@$bdtr$qv —ˆ  ã™  ˜;ˆ,  ãš   -™ ˜ @istream@$bctr$qp9streambuf‡ˆ!  ãœ   - ˜ @istream@$bdtr$qv®ˆ6  ã   -™ ˜ %@istream@$bctr$qp9streambufip7ostreamdˆ&  ã    -™ ˜ @istream@$bctr$qipzciàˆ,  ã¢   -™ ˜ @istream@$bctr$qiip7ostream}ˆ   ã¤   - ˜ @istream@ipfx$qiËˆ  ã¦   - 	˜ ˆ  ã¨   - 	˜ 
+ˆ  ãª   - 	˜ ˆ  ã¬  4˜	ˆ"  ã­   -¬ ˜ @istream@seekg$ql;ˆ+  ã¯   -¬ ˜ @istream@seekg$ql8seek_dir©ˆ!  ã±   - ˜ @istream@tellg$qvLˆ  ã³   - 	˜ ÿˆ%  ãµ   -¬ ˜ @istream@get$qpzcizcÕˆ  ã·   -¬ 	˜ Ñˆ$  ã¹   -¬ ˜ @istream@read$qpzciTˆ  ã»   -¬ 	˜ Íˆ)  ã½   -¬ ˜ @istream@getline$qpzcizcˆ  ã¿   -¬ 	˜ Éˆ,  ãÁ   -¬ ˜ @istream@get$qr9streambufzcıˆ"  ãÃ   -¬ ˜ @istream@get$qrucˆ"  ãÅ   -¬ ˜ @istream@get$qrzcˆ  ãÇ   - ˜ @istream@get$qvˆ  ãÉ   - 	˜ éˆ  ãË   - 	˜ çˆ%  ãÍ   -¬ ˜ @istream@putback$qzcÉˆ$  ãÏ   -¬ ˜ @istream@ignore$qii:ˆ  ãÑ   -¬ ˜ ³ˆ.  ãÓ   -¬ ˜ @istream@$brsh$qpqr3ios$r3ios¼ˆ$  ãÕ   -¬ ˜ @istream@$brsh$qpzcfˆ  ã×   -¬ ˜ ­ˆ$  ãÙ   -¬ ˜ @istream@$brsh$qruceˆ$  ãÛ   -¬ ˜ @istream@$brsh$qrzc^ˆ#  ãİ   -¬ ˜ @istream@$brsh$qrsÈˆ#  ãß   -¬ ˜ @istream@$brsh$qriĞˆ#  ãá   -¬ ˜ @istream@$brsh$qrlËˆ$  ãã   -¬ ˜ @istream@$brsh$qrusKˆ$  ãå   -¬ ˜ @istream@$brsh$qruiSˆ$  ãç   -¬ ˜ @istream@$brsh$qrulNˆ#  ãé   -¬ ˜ @istream@$brsh$qrfÉˆ#  ãë   -¬ ˜ @istream@$brsh$qrdÉˆ#  ãí   -¬ ˜ @istream@$brsh$qrgÄˆ,  ãï   -¬ ˜ @istream@$brsh$qp9streambufˆ"  ãñ   -™ ˜ @istream@$bctr$qv@ˆ$  ãó   - ˜ @istream@eatwhite$qvÆˆ"  ãõ   - ˜ @istream@do_get$qv°ˆv âJ@istream@$bctr$qp9streambufšM@istream@$bdtr$qvœJ%@istream@$bctr$qp9streambufip7ostreamJ@istream@$bctr$qipzci J@istream@$bctr$qiip7ostream¢H@istream@ipfx$qi¤H@istream@ipfx0$qv¦H@istream@ipfx1$qv¨H@istream@isfx$qvªH@istream@seekg$ql­H@istream@seekg$ql8seek_dir¯H@istream@tellg$qv±H@istream@sync$qv³H@istream@get$qpzcizcµH@istream@get$qpucizc·H@istream@read$qpzci¹H@istream@read$qpuci»H@istream@getline$qpzcizc½H@istream@getline$qpucizc¿H@istream@get$qr9streambufzcÁH@istream@get$qrucÃH@istream@get$qrzcÅH@istream@get$qvÇH@istream@peek$qvÉH@istream@gcount$qvËH@istream@putback$qzcÍH@istream@ignore$qiiÏH%@istream@$brsh$qpqr7istream$r7istreamÑH@istream@$brsh$qpqr3ios$r3iosÓH@istream@$brsh$qpzcÕH@istream@$brsh$qpuc×H@istream@$brsh$qrucÙH@istream@$brsh$qrzcÛH@istream@$brsh$qrsİH@istream@$brsh$qrißH@istream@$brsh$qrláH@istream@$brsh$qrusãH@istream@$brsh$qruiåH@istream@$brsh$qrulçH@istream@$brsh$qrféH@istream@$brsh$qrdëH@istream@$brsh$qrgíH@istream@$brsh$qp9streambufïJ@istream@$bctr$qvñH@istream@eatwhite$qvó@    gcount_H@istream@do_get$qvõÀ(   Fˆ  ã˜istream( .
+ˆ  í 
+  €îˆ  ã÷  —Şˆ#  ãø   -÷ — @ifstream@$bctr$qvtˆ(  ãú   -÷ — @ifstream@$bctr$qpxzciiGˆ#  ãü   -÷ — @ifstream@$bctr$qi}ˆ'  ãş   -÷ — @ifstream@$bctr$qipzci½ˆ"  ã‚    - — @ifstream@$bdtr$qvâˆ  ã‚   - 	— ˆ  ã‚   - 	— ±ˆ¯  âJ@ifstream@$bctr$qvøJ@ifstream@$bctr$qpxzciiúJ@ifstream@$bctr$qiüJ@ifstream@$bctr$qipzcişM@ifstream@$bdtr$qv‚ H@ifstream@rdbuf$qv‚H@ifstream@open$qpxzcii‚ÀP   Òˆ  ã—ifstreamP .	ˆ  í 	   
+ aˆ  à‚ Œ @ifstream@$bctr$qpxzcii mˆ  àúŒ @fstreambase@close$qv ˆ  à÷Œ @filebuf@openprot {ˆ  àŒ _stricmp  ˆ  ã‚   #  Úˆ  à‚Œ
+ _strcpy _ˆ  ã‚   #  Ãˆ  à‚
+Œ
+ _strcmp kˆ  ã‚   #  Øˆ  à‚	Œ _exit Nˆ  ã‚	   #  Úˆ  à‚	Œ	 _sound İˆ  ã‚
+   #  Ùˆ  à‚
+Œ _nosound üˆ  ã‚   #  Øˆ  à‚Œ _getdate $ˆ  ã‚   #  ×ˆ  à‚Œ	 _delay ÷ˆ  ã‚   #  Öˆ  à‚Œ _gets Uˆ  ã‚   #  ¼ˆ  à‚Œ	 _getch ûˆ  ã‚   #  Ñˆ  à‚Œ
+ _gotoxy Zˆ  ã‚   #  Óˆ  à‚Œ
+ _clrscr {ˆ  ã‚   #  Òˆ  à‚ Œ @endl$qr7ostream 5ˆ  ã‚   #*  ¨ˆ  à‚ÿŒ _cout Mˆ  ã‚  ‚Cˆ-  ã‚   -‚ ‚ @ostream_withassign@$bctr$qvgˆ,  ã‚   - ‚ @ostream_withassign@$bdtr$qvúˆ  ã‚  4‚ˆ5  ã‚   -‚ ‚ $@ostream_withassign@$basg$qr7ostream)ˆ7  ã‚   -‚ ‚ &@ostream_withassign@$basg$qp9streambufUˆš  âJ@ostream_withassign@$bctr$qv‚M@ostream_withassign@$bdtr$qv‚H$@ostream_withassign@$basg$qr7ostream‚H&@ostream_withassign@$basg$qp9streambuf‚À&    ˆ  ã‚ostream_withassign& .Øˆ  í    nˆ  à‚şŒ _cin Ğˆ  ã‚  ‚-ˆ-  ã‚    -‚ ‚ @istream_withassign@$bctr$qvLˆ,  ã‚"   - ‚ @istream_withassign@$bdtr$qvêˆ  ã‚$  4‚	ˆ5  ã‚%   -‚$ ‚ $@istream_withassign@$basg$qr7istreamˆ7  ã‚'   -‚$ ‚ &@istream_withassign@$basg$qp9streambuf:ˆš  âJ@istream_withassign@$bctr$qv‚ M@istream_withassign@$bdtr$qv‚"H$@istream_withassign@$basg$qr7istream‚%H&@istream_withassign@$basg$qp9streambuf‚'À(   ˆ  ã‚istream_withassign( .Ğˆ  í   
+ gˆ  à‚óŒ @ostream@outstr$qpxzct1 ˆ  à†Œˆ,  ì%@ostream@$blsh$qpqr7ostream$r7ostream|üˆ  ì@ostream@$blsh$qpxzct®Œ @ostream@$blsh$ql ˆ  àj¨ˆ  ì@ostream@$blsh$qifŒ @ostream@$blsh$qzc “ˆ  à^´Œ @ostream@write$qpxzci Şˆ  àZ¸Œ @istream@$brsh$qrl ’ˆ  àá1Œ @istream@$brsh$qri •ˆ  àß3Œ @istream@$brsh$qpzc !ˆ  àÕ=Œ @istream@read$qpzci ïˆ  à¹YŒ @ios@usercount ¢ˆ  àŒ @ios@nextbit ˆ  àŒ @ios@stdioflush Cˆ  àˆ  ì@ios@$bnot$qv€™ˆ  ì@ios@$opv$qv€‹ûˆ  ì@ios@fail$qv€‚áŒ @ios@floatfield nˆ  àŒ @ios@adjustfield ÷ˆ  àŒ @ios@basefield ëˆ  à  _mainí ^ˆ  ã‚)   #  ºˆ  á‚)Î  	@guest$qvÑ ˆ  ã‚*   #  ¹ˆ  á‚*Í  
+@adminp$qv’ ñˆ  ã‚+   #  ¸ˆ  á‚+Ì  @quit$qv °ˆ  ã‚,   #  ·ˆ  á‚,Ë  	@viewu$qv! ¯ˆ  ã‚-   #  ¶ˆ  á‚-Ê  @subb$qiæ	 ˆ  ã‚.   #  µˆ  á‚.É  	@takeb$qvÇ 5ˆ  ã‚/   #  ´ˆ  á‚/È  @searchb$qvM Úˆ  ã‚0   #  ³ˆ  á‚0Ç  	@editb$qvÒ *ˆ  ã‚1   #  ²ˆ  á‚1Æ  @delb$qv Sˆ  ã‚2   #  ±ˆ  á‚2Å  	@viewb$qv® :ˆ  ã‚3   #  °ˆ  á‚3Ä  @addb$qvZ "ˆ  ã‚4   #  ¯ˆ  á‚4Ã  @checkpw$qvü !ˆ  ã‚5   #  «ˆ  á‚5Â  	@info2$qvÓ Uˆ  ã‚6   #  ­ˆ  á‚6Á  	@info1$qv´ uˆ  ã‚7   #  ¬ˆ  á‚7À  @welcome$qv* ìˆ  ã‚8   #  «ˆ  á‚8¿  
+@msound$qv% Iˆ  ã‚9   #  ªˆ  á‚9¾  	@clean$qv üˆ  ã‚:   #  ©ˆ  á‚:½  
+@back1$qzc» !ˆ  ã‚;   #  ¨ˆ  á‚;¼	 _u 	ˆ
+  ã‚< ğ#„ˆ  á‚< Ó  @usinfo@calfee$qvè Üˆ  á8B  @usinfo@copynxt$qiV Äˆ  á6D	 _a* tˆ  á y	 _bÄ  İˆ
+  ã‚= f0ˆ  á‚= Ò  @book@correctrate$qv/ :ˆ  áU%  @book@checkstatus$qv Xˆ  áS'  @book@setstatus$qi¾ kˆ  áQ)  @book@copy$q4books wˆ  áO+  @book@search$qpzc? ‚ˆ  áM-  @book@edit$qvv  üˆ  áK/  @book@copynxt$qi   
+ˆ  áI1 _fin2t  ˆ  á— y _fin$  ˆ  á— y _temp"  %ˆ  á 
+ _un   şˆ  á 
+ _bn  ˆ  á  _user   >ˆ
+  ã‚>  ‘ˆ  á‚> Ñˆ  ã‚?   #  ¤ˆ  ã‚@   #  ˆ  ã‚A   #  ¢ˆ  ã‚F  ‚Eßˆ-  ã‚G   -‚F ‚E @iostream@$bctr$qp9streambufˆ"  ã‚I   - ‚E @iostream@$bdtr$qváˆ#  ã‚K   -‚F ‚E @iostream@$bctr$qvˆT  âJ@iostream@$bctr$qp9streambuf‚GM@iostream@$bdtr$qv‚IJ@iostream@$bctr$qv‚KÀ,   ˆ  ã‚Eiostream, .èˆ  í   
+  ^ˆ"  ã‚M   -‚C ‚D @fstream@$bctr$qvˆ'  ã‚O   -‚C ‚D @fstream@$bctr$qpxzciiaˆ"  ã‚Q   -‚C ‚D @fstream@$bctr$qi—ˆ¨  âJ@fstream@$bctr$qv‚MJ@fstream@$bctr$qpxzcii‚OJ@fstream@$bctr$qi‚QJ@fstream@$bctr$qipzci‚BM@fstream@$bdtr$qv‚AH@fstream@rdbuf$qv‚@H@fstream@open$qpxzcii‚?ÀT   ºˆ  ã‚DfstreamT .6ˆ  í     Yˆ  ã‚C  ‚Dãˆ  ã‚B   #‚C  Üˆ  ã‚S   #  ˆ  ã‚T   #  ˆ  ã‚U   #  ˆ  ã‚V   #  Šˆ  ã‚Z  ‚Y·ˆ.  ã‚[   -‚Z ‚Y @iostream_withassign@$bctr$qv*ˆ-  ã‚]   - ‚Y @iostream_withassign@$bdtr$qvˆ2  ã‚_   -‚X ‚Y !@iostream_withassign@$basg$qr3ios°ˆš  âJ@iostream_withassign@$bctr$qv‚[M@iostream_withassign@$bdtr$qv‚]H!@iostream_withassign@$basg$qr3ios‚_H'@iostream_withassign@$basg$qp9streambuf‚WÀ,   ˆ  ã‚Yiostream_withassign, .ˆ  í    `ˆ  ã‚X  4‚Yšˆ  ã‚W   #‚X  ²ˆ1 æPfstream‚C	Pofstreamˆ	Pifstream÷PfstreambasePfilebuffpos_tRiostream_withassign‚XPiostream_withassign‚ZRostream_withassign‚Postream_withassign‚Ristream_withassign‚$Pistream_withassign‚	Piostream‚FRostream*Postream%Ristream¬Pistream™
+Pstreambuf€Pios+	streamoff	streampossize_t
+	ptrdiff_tusinfobookfstream‚Dofstream"ifstream—fstreambaseYfilebuf dateios_user_unioniostream_withassign‚Yostream_withassign‚istream_withassign‚iostream‚Eostream&istream˜	streambuf€ios,D   U‹ìVW‹v‹~‹ÇºW ÷ê‹Ø‹‡Ä ‰‹ÇºW ÷êÆ P‹Æ Pè  YY‹ÇºW ÷êä P‹Æ  Pè  YY‹ÇºW ÷êø P‹Æ4 Pè  YY‹ÇºW ÷êP‹ÆR Pè  YY_^]ÃU‹ìƒìV‹v¸(P¸  Pè  YY¸á(P¸  Pè  YYFşP¸  Pè  YY‹^şKƒûvélÑã.ÿ§1¸)P¸  Pè  YYV¸  Pè  YY¸)P¸  Pè  YY‹Æ Pè  Y¸8)P¸  Pè  YY‹Æ  Pè  Y¸U)P¸  Pè  YY¸«)P¸  Pè  YYFüP¸  Pè  YYÿvüVè  YY¸Ã)P¸  Pè  YY¸ù)P¸  Pè  YYFüP¸  Pè  YYÿvüVèaYY¸*P¸  Pè  YY‹ÆR Pè  Yé³ ¸B*P¸  Pè  YYV¸  Pè  é™ ¸Z*P¸  Pè  YY‹Æ ëÌ¸s*P¸  Pè  YY‹Æ  ë¸¸*P¸  Pè  YY¸æ*P¸  Pè  YYFüP¸  Pè  YYÿvüVè  ëA¸ş*P¸  Pè  YY¸4+P¸  Pè  YYFüP¸  Pè  YYÿvüVè§ ë¸L+éCÿ¸}+P¸  Pè  YY^‹å]Ãº y‘¥¹éU‹ìV3öëÿv‹ÆºW ÷êÆ Pè  YYÀu‹ÆëF¡ @;ÆÜ¸ÿÿëğ^]ÃU‹ìV‹v‹F‰FP‹Æ Pè  YYF&P‹Æ  Pè  YYF:P‹Æ4 Pè  YYFXP‹ÆR Pè  YY^]ÃU‹ìVW‹v‹~ƒÿu¸–+P‹Æ> Pè  YYë*ƒÿu¸ +P‹Æ> Pè  YYëƒÿu¸¬+P‹Æ> Pè  YY_^]ÃU‹ì‹F> P¸´+Pè  YYÀu¸ ë3Àëú]ÃU‹ìVW‹~3öë‹Ş€yR*t‹ŞÆAR*F‹Ş€yR ué_^]ÃU‹ìVW‹v‹~‹Çº¸ ÷ê‹Ø‹‡‹—‰„ ‰” ‹Çº¸ ÷êP‹Æš Pè  YY‹Çº¸ ÷êçP‹Æf Pè  YY‹Çº¸ ÷êƒP‹Æ Pè  YY‹Çº¸ ÷ê‹Ø‹‡‰‹Çº¸ ÷ê‹Ø‹‡‹—‰„˜ ‰”– _^]ÃU‹ìƒìVW‹v3ÿFğPè  YŠFòˆœ,‡úVÇÚÇÖÇÇ‡¸VÇ®‡¢VÇ˜‡ŒVÇ‚ÇpÇl‡VÇ‡VÆû†ïVÆå†ÙVÆÏ†·V†¨V†™V†ŠVÆd†VVÆRÆ=TÆ;TÆ9TÆ7TÆ5TÆ3TÆ1T†(TÀÆ$!Æ Æ†V(Æ"…ÿTÀÅû!Å÷…òTÀÅî!Åê…åTÀ…ÜV(ÅØ"…ÏTÀÅË!ÅÇ…ÂTÀÅ¾!Åº…®TÀÅª!Å¦…šTÀÅ–!Å’…ŒV(Åˆ"…‚TÀÅ~!Åz…sV…hTÀÅd!Å`…RV(ÅN"…ETÀÅA!Å=…8TÀÅ4!Å0…+TÀ…"V(Å"…TÀÅ!Å…TÀÅ!Å „üV„ñTÀÄí!Äé„åV„ÚTÀÄÖ!ÄÒ„ÍV(ÄÉ"„ÃTÀÄ¿!Ä»Ä¸T„£V(ÄŸ"„–TÀÄ’!Ä„‰TÀÄ…!Ä„nVÄd„XVÄN„BVÄ8„,VÄ"Ä†  ˜‰FúŠFó˜‰Fü‹Fğ‰FşŠ„” ˜‰FôŠ„• ˜‰Fö‹„’ ‰Fø‹Fş+Fø‹ø‹Çºô÷ê™‹œ˜ ‹Œ– ÈÚ‰œ˜ ‰Œ– ‹Fü+Fö‹øÿ}	‹Çºÿÿ÷ê‹ø‹Çº ÷ê™‹œ˜ ‹Œ– ÈÚ‰œ˜ ‰Œ– ‹Fú+Fú‹øÿ}	‹Çºÿÿ÷ê‹ø‹ÇÑà™‹œ˜ ‹Œ– ÈÚ‰œ˜ ‰Œ– ‹”˜ ‹„– ë _^‹å]ÃU‹ìV3öëŠFP¸  Pè  YYFƒşN|í3öë¸ PVè  YYŠFP¸  Pè  YYFƒşQ|ã¸ P¸ Pè  YY^]ÃU‹ìè  è  ¸èPè  Y¸2 Pè  Yè  ]ÃU‹ì]ÃU‹ì¸
+ P¸ Pè  YY¸¾+P¸  Pè  YY¸ P¸ Pè  YY¸Ñ+P¸  Pè  YY¸ P¸ Pè  YY¸Û+P¸  Pè  YY¸ P¸# Pè  YYèšÿ¸ã+P¸  Pè  YY¸ P¸& Pè  YY¸î+P¸  Pè  YY]ÃU‹ì¸ P¸2 Pè  YY¸ô+P¸  Pè  YY]ÃU‹ìè.ÿ°@PèÜşY¸,P¸  Pè  YY¸v,P¸  Pè  YY]ÃU‹ìƒìV3öè  ˆBê€zêuÆBê ë¸ P‹Æ. Pè  YY¸ß,P¸  Pè  YYFëÏ¸á,PFêPè  YY‰Fşƒ~ş u¸ ë3Àëú^‹å]ÃU‹ìƒìV¸å,P¸  Pè  YYFşP¸  Pè  YYè6ÿ3öëè‚ş°+Pè0şYÿ ¡ ºW ÷êÄ Pè  YF;vş|Üèÿ^‹å]ÃU‹ìVƒ> ÿu¸ P¸ Pè  YY¸-P¸  Pè  YY3öë7‹Æ» ™÷ûÒuöt
+èş°+PèËıY‹ÆºW ÷êÄ Pè  Y¸  P¸  Pè  YYF¡ @;ÆÁè›ş^]ÃU‹ìƒìVWèàı°+PèıY¸1-P¸  Pè  YYÇFü  FşP¸  Pè  YY3öë]‹ÆºW ÷êÄ Pè  Y;FşuH‹şë‹Ç@P‹ÇºW ÷êÄ Pè…øYYG;> uåÇFü ÿ ¸f-Pÿvş¸`-P¸  Pè  YYPè  YYPè  YYF¡ @;Æ›ƒ~ü u¸r-P¸  Pè  YYèèı_^‹å]ÃU‹ìƒìVWè*ı°+PèØüY¸ -P¸  Pè  YY3ÿFşP¸  Pè  YYÌœ»‡üV(Çø"‡íTÀÇé!Çå‡ÅTÀÇÁ!Ç½Ç¯‡©TÀ‡£TÀ‡TÀÇ™!Ç•ÇÇ‹Ç€Çu‡]TÀÇY‡IV(ÇE"‡7TÀÇ3!Ç/Ç‡	TÀÇ!ÇV †ıTÀÆù†ÏTÀÆË!ÆÇ†ÂVÆ´†TÀÆ™Æ‘Æ†wV(Æs"†jTÀÆf!Æb†?VÆ7†/TÀÆ+!Æ'†"V†V…öTÀÅò!Åî…éTÀÅå!Åá…ÍTÀÅÉ!ÅÅ…ÀV…®TÀÅª!Å¦…¡V…”TÀÅ!ÅŒ…„V…wTÀÅs!Åo…jV…]TÀÅY!ÅU…PV…CTÀÅ?!Å;…6V…!V…V…V…V…V… V„íV%Äé!„àV„ÌV%ÄÈ!Ä ş 3öë'‹ÆºW ÷êÄ Pè  Y;Fşu‹ÆºW ÷êÄ PèPøY¿ F¡ @;ÆÑÿu¸Æ-P¸  Pè  YYèmı_^‹å]ÃU‹ìƒìVè°ü°+Pè^üY¸ô-P¸  Pè  YYFâPè  YFâP¸Ä PèÁùYY‹ğƒşÿu¸#.P¸  Pè  YYë)¸M.P¸  Pè  YY¸^.P¸  Pè  YY‹ÆºW ÷êÄ Pè  Yèòü^‹å]ÃU‹ìƒìVWè5ü°+PèãûY3ÿ¸z.P¸  Pè  YYFşP¸  Pè  YY3öéÇ ‹ÆºW ÷êÄ Pè  Y;Fşté¯ ë1¸  P‹Æº¸ ÷êPè  YYÀu¸«.P¸  Pè  YYèyüè  éŸ ÿFü¡  @;FüÆ‹ÆºW ÷êÄ Pè²ùY= t¸Ü.P¸  Pè  YYë\¸)/P¸  P¸/P¸  Pè  YYPè  YYPè  YYÿvşÿ  ¡  º¸ ÷êPè  YY¸ P‹ÆºW ÷êÄ PèùYY¿ F¡ @;Æ~é.ÿÿu¸-/P¸  Pè  YYèÔû_^‹å]ÃU‹ìƒìVWèû°+PèÄúYÇFş  3ÿéÊ ‹Çº¸ ÷êP¸  Pè  YYÀté® ƒ~u‹Çº¸ ÷ê‹Ø‡Ğƒ— ‹Çº¸ ÷êPè  Y¸V/P¸  Pè  YY3öëD‹ÆºW ÷êÄ Pè  YP‹Çº¸ ÷êPè  YZ;Ğuƒ~u¸ ë¸ P‹ÆºW ÷êÄ Pè&øYYF¡ @;Æ´‹÷ë‹Æ@P‹Æº¸ ÷êPèøYYF;6  uåÿ  ÇFş G¡  @;Ç~é+ÿƒ~ş u;¸‘/P¸  Pè  YY¸Ç/P¸  P¸º/P¸  Pè  YYPè  YYPè  YY¸à/P¸  Pè  YYè™ú_^‹å]ÃU‹ìVƒ>  ÿu¸ P¸ Pè  YY¸0P¸  Pè  YY3öë7‹Æ» ™÷ûÒuöt
+èªù°+PèXùY‹Æº¸ ÷êPè  Y¸  P¸  Pè  YYF¡  @;ÆÁè(ú^]ÃU‹ììÀ Vèmù°$PèùY¸ P¸ Pè  YY¸10P¸  Pè  YY¸N0P¸  Pè  YY¸“0P¸  Pè  YYFÜPè  Y€~ÜNu¸ç0ë¸ë0P¸  Pè  YY¸1P¸<œFÇö‡ñTÀÇí!ÇéÇä‡ÚV‡ÑTÀÇÍ!ÇÉ‡ÄTÀÇÀ!Ç¼‡·TÀÇ³!Ç¯‡ªVÇ‚‡|TÀÇx!ÇtV ‡pTÀ	Çl‡BTÀÇ>!Ç:‡5VÇ'‡TÀÇ!Ç‡TÀ‡TÀ†ûTÀÆ÷!ÆóÆïÆë†æTÀÆâ!ÆŞÆÍÆÄÆ¾Æ³ÆœÆ’†sTÀ
+Æo†cTÀÆ_†OTÀÆK!ÆG†CTÀ	Æ?Æ4Æ.†VÆÆ
+…ÙTÀÅÕ!ÅÑÅÂÅµ…¥TÀÅ¡Å™Å–…TÀ…‡TÀ…TÀÅ}!ÅyÅuÅq…jTÀÅf!ÅbÅUÅE…<V…4TÀÅ0!Å,…#VÅÅ…TÀÅ„ñV(Äí"„äTÀÄà!ÄÜ„¼TÀÄ¸„¬TÀÄ¨!Ä¤„ŸTÀÄ›!Ä—„TÀÄŒ!ÄˆÄx„pV„gTÀÄc!Ä_„@TÀÄ<!Ä8Ä,Ä „TÀÄ ú  Pè  YYFúPè  Y€~ú*u'€~û*u!€~ü*u€~ı*u€~ş*u¸g1P¸  Pè  YYë{€~ú*u!€~û*u€~ü*u€~ı*u¸}1P¸  Pè  YYëT€~ú*u€~û*u€~ü*u¸“1P¸  Pè  YYë3€~ú*u€~û*u¸¢1P¸  Pè  YYë€~ú*u¸´1ë¸Â1P¸  Pè  YY¸Ò1P¸  Pè  YY¸æ1P¸  Pè  YYèåø¸$ Pè  Yÿ6  ¸€ P¸ù1P3ÀPFPè  ƒÄ
+ÿ6  ¸€ P¸2P3ÀP†@ÿPè  ƒÄ
+3öë¸W P‹ÆºW ÷êÄ PF¶Pè  ƒÄF¡ @;ÆŞ3öë¸¸ P‹Æº¸ ÷êP†hÿPè  ƒÄF¡  @;ÆİFPè  Y†@ÿPè  Yè  3ÀPè  Y¸ P†@ÿPè  YY¸ PFPè  YY^‹å]ÃU‹ìƒìèl÷°#Pè÷Y¸ P¸# Pè  YY¸	2P¸  Pè  YY¸ P¸" Pè  YY¸ 2P¸  Pè  YY¸'2P¸  Pè  YY¸82P¸  Pè  YY¸J2P¸  Pè  YY¸^2P¸  Pè  YY¸w2P¸  Pè  YY¸2P¸  Pè  YY¸£2P¸  Pè  YY¸´2P¸  Pè  YY¸À2P¸  Pè  YYFşP¸  Pè  YYèY÷‹^şƒûwJÑã.ÿ§Áèšö°#PèHöYèã÷ëAèVùë<è›øë7èö°+Pè/öYèøë(èrö°+Pè öYè‚üëè©ùëëèäüë¸Ù2P¸  Pè  YYéÛş‹å]Ã¨jy~ƒ’¡¦U‹ìƒìèùöè*ö°#PèØõY¸ P¸# Pè  YY¸ò2P¸  Pè  YY¸ P¸" Pè  YY¸3P¸  Pè  YY¸3P¸  Pè  YY¸3P¸  Pè  YY¸/3P¸  Pè  YY¸@3P¸  Pè  YY¸T3P¸  Pè  YY¸q3P¸  Pè  YY¸‚3P¸  Pè  YY¸3P¸  Pè  YYFşP¸  Pè  YY‹^şƒûw6Ñã.ÿ§ßè(ùë7¸ Pè>úYë0èYõ°+PèõYèööëèøë¸ ëàëèÆûë¸§3P¸  Pè  YYéÿş‹å]ÃÆœ¡«º¿ÄU‹ìƒìVWè  °#Äœ™‡üVÇñTÇïTÇíTÇëTÇéTÇçTÇåT‡ÚTÀÇÖ!ÇÒÇ T‡V(Ç‹"‡‚TÀÇ~!Çz‡uTÀÇq!Çm‡hTÀÇd!Ç`‡[TÀÇW!ÇS‡NTÀÇJ!ÇF‡ATÀÇ=!Ç9‡4TÀÇ0!Ç,‡'TÀÇ#!Ç‡TÀÇ!Ç‡V‡ TÀÆü!Æø†óVÆÕTÆÓTÆÑTÆÏTÆÍTÆËTÆÉTÆÇT†¼TÀÆ¸!Æ´ÆnT†ZV(ÆV"†MTÀÆI!ÆE†@TÀÆ<!Æ8†3TÀÆ/!Æ+†&TÀÆ"!Æ†TÀÆ!Æ†TÀÆ!Æ…ÿTÀÅû!Å÷…òTÀÅî!Åê…åTÀÅá!Åİ…ØTÀÅÔ!ÅĞ…ËV…¾TÀÅº!Å¶…±V…V…‚V…uV…oV…kV…bVÅV…OV&ÅFÅ/…(V&Å …VÄÿÄø„ñVÄæÄß„ÚVÄÖ„ÎTÀÄÊ!ÄÆ„ÁTÀÄ½!Ä¹„´TÀÄ°!Ä¬Ä§„šTÀÄ–!Ä’„TÀÄ{!Äw„^TÀÄZ!ÄV„7TÀÄ3!Ä/„V„TÀÄ !z óúPè½ôYè(õÿ6$ è  YÀtÿ6t è  YÀt¸À3P¸  Pè  YYèeûè‡õ3öëÿ F¸W P‹ÆºW ÷êÄ P¸L Pè  ƒÄ‹Øÿ7è  YÀuÖ3öëÿ  F¸¸ P‹Æº¸ ÷êP¸œ Pè  ƒÄ‹Øÿ7è  YÀuÖè{ô°*Pè)ôY¸å3P¸  Pè  YY¸ó3P¸  Pè  YY¸4P¸  Pè  YY¸4P¸  Pè  YY¸!4P¸  Pè  YY¸o4P¸  Pè  YY¸®4P¸  Pè  YY¸Õ4P¸  Pè  YYFşP¸  Pè  YYƒ~ştéú ¿ ¸ò4P¸  Pè  YYèôèàó°@PèóY¸ P¸ Pè  YY¸5P¸  Pè  YY¸ P¸ Pè  YY¸/5P¸  Pè  YY¸
+ P¸ Pè  YY¸J5P¸  Pè  YY¸  Pè  Y¸ P¸ Pè  YY¸]5P¸  Pè  YYè[ô‰Füƒ~üu¸s5P¸  Pè  YYèúóèÕûëI¸Š5P¸  Pè  YY¸³5P‹ÇHP¸¥5P¸  Pè  YYPè  YYPè  YYOèÃóÿu¸Ç5P¸  Pè  YYèŠùéÿé ƒ~şu[¸ğ5P¸  Pè  YYè“óèãò°@Pè‘òY¸
+ P¸ Pè  YY¸6P¸  Pè  YY¸  Pè  Y¸  P¸6P¸  Pè  YYPè  YYèMóègüëƒ~ş uè?óèùë¸,6P¸  Pè  YYè*óéüı_^‹å]ÃU‹ìÿ6  ¸€ P¸q(P3ÀP¸$ Pè  ƒÄ
+ÿ6  ¸€ P¸y(P3ÀP¸t Pè  ƒÄ
+]ÃU‹ì¸ P¸t Pè  YY¸ P¸$ Pè  YY]Ãƒœ†éVÆå†ÜVÆØ†ÉVÆÅÆ¾Æ·†°VÆ¬Æ¥Æ†‰TÀÆ…!Æ†fTÀ†`TÀÆ\!ÆXÆT†PVÆL†GTÀÆC!Æ?†:V† TÀÆ!Æ†TÀÆ !Åü…ïTÀ…éTÀ…ãTÀÅß!ÅÛÅÓ…ÎTÀÅÊ!ÅÆ…¹TÀÅµ!Å±… TÀÅœ!Å˜…“V…‡VÅƒ…~TÀÅz!Åv…qV…dTÀÅ`!Å\…WV…JTÀÅF!ÅB…=V…#TÀÅ!Å…
+V(Å"„ıTÀÄù!Äõ„ğTÀÄì!Äè„ãTÀÄß!ÄÛ„ÖTÀÄÒ!ÄÎ„ÉTÀÄÅ!ÄÁ„¼TÀÄ¸!Ä´„¯TÀÄ«!Ä§„¢TÀÄ!Äš„ˆTÀ„~V*ÄzÄvÄg„ZTÀ„PV*ÄLÄHÄ9„)TÀÄ%!Ä!„TÀÄ„TÀÄ
+"  ÿÿÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 (                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      $                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 (                                                                                   lib.dat log.dat 
+		1. All
+		2. Book no.
+		3. Book name
+		4. Author's name
+		5. Category
+		6. Status
+		7. Rating 
+
+			Enter the section to be edited:: 
+		Enter the book no.:: 
+		Enter the book name:: 
+		Enter the author's name:: 
+		Choose the category:-
+		1. Education  2. Fiction  3. Comedy  4. Drama  5. Romantic 
+		Enter the category:: 
+		Choose the status:-
+		1. Available  2. Unavailable 
+		Enter the category:: 
+		Enter the rating (in '*', min-*, max-*****):: 
+		Enter the book no.:: 
+		Enter the book name:: 
+		Enter the author's name:: 
+		Choose the category:-
+		1. Education  2. Fiction  3. Comedy  4. Drama  5. Romantic 
+		Enter the category:: 
+		Choose the status:-
+		1. Available  2. Unavailable 
+		Enter the category:: 
+		Enter the rating (in '*', min-*, max-*****):: 
+			!! INVALID CHOICE !! Available Unavailable Missing Available WELCOME TO PROGRAM *LIBSOFT* ======= Present By Jovial George (Press Any Key To Continue) 
+			Rules
+			= ,====
+	1. You can only take one books at a time
+	2. Submit the book as early as possible 
+	3. Please report if taken book is missing
+	4. Fee will be automatically taken from your E-mail account * god 
+			Enter the no. of books to be added:: !! SORRY, NO RECORDS TO DISPLAY !! 
+
+		Enter the book no. of book to be deleted:: 
+
+			  is deleted 
+
+			!! SORRY THIS BOOK NO. DOES NOT EXIST !! 
+			Enter the book no. to be edited:: 
+			!! SORRY, THIS BOOK NO. DOES NOT EXIST !! 
+		Enter the name of the book to be searched:: 
+
+			!! SORRY THIS BOOK DOES NOT EXIST !! 
+
+			!! FOUND !! 
+
+		This book's info are:-
+ 
+		Enter the book no. of the book to be taken::  
+
+		!! SORRY, YOU CAN NOT TAKE ANY MORE BOOKS !! 
+
+		!! SORRY, THIS BOOK IS NOT AVAILABLE !! 
+
+			Please verify your details   :- 
+		!! SORRY, THIS BOOK DOES NOT EXIST !! 
+
+		!! FEES HAS BEEN WITHDRAWN FROM YOUR E-mail ACCOUNT !! 
+		!! SORRY, LibSoft IS GOING RESTART !! 
+			BECAUSE   HAVEN'T TAKEN ANY BOOK. 
+			RETYPE YOUR USER NAME AGAIN AND TRY AGAIN !! SORRY, NO RECv 0ORDS TO DISPLAY !! Thank you for using LibSoft
+ 
+Please suggest this program for your friends , library office ,etc
+ 
+If you have any problem with LibSoft please report it here(Enter N for nothing)::
+ OK
+ Your problem will be solved early as possible
+ Please give your rating for this program(Enter as '*',maximum 5 stars)::
+			 
+				 AWESOME 
+ 
+				 VERY GOOD 
+ 
+				 GOOD 
+ 
+				 NOT BAD 
+ 
+				 BAD 
+ 
+?? Nothing ??
+ 
+		Thank you again
+ 			Catch you later lib.dat log.dat MENU (Administer mode) ====== 
+		1. Add a book 
+		2. Edit a book 
+		3. Delete a book 
+		4. View the lib-table 
+		5. View the user-log 
+		6. Search a book 
+		7. To go back 
+		 0. Exit 
+
+			Enter your choice:: 
+			!! INVALID CHOICE !! MENU (Guest mode) ====== 
+		1. Take a book 
+		2. Submit book 
+		3. View books 
+		4. Search a book 
+		5. Report book is missing 
+		6. To go back 
+		 0. Exit 
+
+			Enter your choice:: 
+			!! INVALID CHOICE !! 
+		!! SORRY FILES IS NOT ATTACHED !! 				LOGIN AS
+ 				========
+
+ 
+		1. Administer
+ 
+		2. Guesä 4t
+ 
+
+Note:( Guest mode can not make changes in any of the datas in this program. 
+      Enter 1 if you want administer mode or 2 if guest mode. 
+      Enter 0 to exit from libsoft.)
+ 
+
+		Enter the mode of user:: 
+			Adiminister mode is accepted
+ Welcome To Administer Mode ========================== Enter Your Name::  Enter The Password::  
+
+			Password Accepted 
+
+			Password Not Accepted 
+
+		You have   more chance to try 
+			Your chance is over, Try again later 
+			Guest mode is accepted
+ Enter Your Name::  
+			Welcome  
+			!! INVALID CHOICE !!
+ Education Fiction Comedy Drama Romantic Unknown 
+		Enter the book no.:: 
+		Enter the book name:: 
+		Enter the author's name:: 
+		Choose the category:-
+		1. Education  2. Fiction  3. Comedy  4. Drama  5. Romantic 
+		Enter the category:: Available 
+		Enter the rating (in '*', min-*, max-*****):: 
+		Book no.     ::  
+		Book name    ::  
+		Author's name::  
+		Category     ::  
+		Status       ::  
+		Rating       ::  
+		Enter your phone no.::  
+		Enter your e-mail ID::  
+		È Î 8Enter your address(in single line using ',') ::
+		 
+		Name          ::  
+		Phone no.     ::  
+		e-mail ID     ::  
+		Address       ::  
+		Book no.      ::  
+		Date of issued::  : : 
+		Fee           ::  -   À  U‹ìV‹v3ÀPÿvVè  ƒÄ‹Æë ^]ÃUœ „V#S … À  U‹ìVW‹v‹~ƒÿu¸F6P‹Æ4 Pè  YYë[ƒÿu¸P6P‹Æ4 Pè  YYëEƒÿu¸X6P‹Æ4 Pè  YYë/ƒÿu¸_6P‹Æ4 Pè  YYëƒÿu¸e6ë¸n6P‹Æ4 Pè  YY_^]Ãzœ3 „xVÄnÄi„]VÄS„GVÄ=„1VÄ'„VÄ] ´ À  U‹ìƒìV‹v¸v6P¸  Pè  YYV¸  Pè  YY¸6P¸  Pè  YY‹Æ Pè  Y¸§6P¸  Pè  YY‹Æ  Pè  Y¸Ä6P¸  Pè  YY¸7P¸  Pè  YYFşP¸  Pè  YYÿvşVè  YY¸27P‹Æ> Pè  YY¸<7P¸  Pè  YY‹ÆR Pè  YVè/Y^‹å]Ã]œ‹ „§T„¢V„—TÀÄ“!Ä„ŠVÄ€„{TÀ„rV(Än"„eTÀÄa!Ä]„XTÀÄT!ÄP„LV„ATÀÄ=!Ä9„5V„*TÀÄ&!Ä"„V(Ä"„TÀÄ!Ä‰ ¡ À  U‹ìV‹vÿ4¸m7P¸  Pè  YYPè  YY‹Æ P¸7P¸  Pè  YYPè  YY‹Æ  P¸•7P¸  Pè  YYPè  YY‹Æ4 P¸©7P¸  Pè  YYPè  YY‹Æ> P¸½7P¸  Pè  YYPè  YY‹ÆR P¸Ñ7P¸  Pè  YYPè  YY^]Ãƒœy „•TÀ„TÀÄ‹!Ä‡„|TÀ„vTÀÄr!Än„cTÀ„]TÀÄY!ÄU„JTÀ„DTÀÄ@!Ä<„1TÀ„+TÀÄ'!Ä#„TÀ„TÀÄ!Ä
+G  À  U‹ìÿvÿVYë ]Ã„  À  U‹ìV‹v‹ë ^]Ãh  À  U‹ì‹F™RPÿvè  ƒÄë ]Ãçœ „V$T ˆ À  U‹ìV‹v¸  P‹Æš Pè  YY¸å7P¸  Pè  YY‹Æ P¸  Pè  YY¸ 8P¸  Pè  YY‹Æf P¸  Pè  YY¸8P¸  Pè  YY‹Æ Pè  Y‹F‰‹Æ’ Pè  YÇ„˜   Ç„– È ^]ÃœQ „qV„bV„WTÀÄS!ÄO„JV)ÄF"„;TÀÄ7!Ä3„.V'Ä*"„TÀÄ!Ä„VÄM é À	  U‹ìV‹v‹Æš P¸Q8P¸  Pè  YYPè  YYÿ´ ÿ´ ¸f8P¸  Pè  YYPè  ƒÄ‹Æf P¸{8P¸  Pè  YYPè  YY‹Æ P¸8P¸  Pè  YYPè  YYÿ4¸¥8P¸  Pè  YYPè  YYÿ´’ ¸Ñ8PŠ„• ˜P¸Ï8PŠ„” ˜P¸º8P¸  Pè  YYPè  YYPè  YYPè  YYPè  YYPè  YYVèèYRP¸Ó8P¸  Pè  YYPè  ƒÄ^]ÃZœ­ „ÜV$„ÖTÀÄÒ!ÄÎ„ÈT„ÂTÀ„¼TÀ„¶TÀ„°TÀ„ªTÀ„¤TÀÄ !ÄœÄ’Äˆ„TÀ„yTÀÄu!Äq„jTÀ„dTÀÄ`!Ä\„QTÀ„KTÀÄG!ÄC„7V$„1TÀÄ-!Ä)„TÀ„TÀÄ!Äc  À
+  U‹ìV‹v‹ë ^]Ãd  À  U‹ìÿvè  Yë ]Ãñœ „TÀ²   À  U‹ìV‹vVè  YÀt3Àë‹Æë ^]ÃÙœ „	TÀ°  À  U‹ìV‹v‹D%† ë ^]Ãl 
+     “  œ ÌT< 
+     Ê  Uœ ÌT<ˆ  è PROJEC~2.CPP’eE’”s G   I  J  K 0 L F M \ N r O v Q € R  T š U § W º X Ç Y Ñ Z Ş [ è \ õ ] ÿ ^ ` a &b /c <d Ie Vf _g lh vi yj †l ‘m o ¥p ²r ¹s Æt Óu àw éx öy z |   ,‚ ?„ C… G† ^‡ kˆ p‰ s‹ zŒ    ¬ »‘ ¾“ É” Î• ß– ä— õ˜ ú™ 	š œ  $ )Ÿ -  /¢ 7£ ;¤ C¥ RÍ VÏ aĞ zÑ Ò ¦Ó ¼Ô ËÕ äÖ èØ óÚ õÛ ıÜ İ (Ş 0ß Là Tá Xâ aã }ä …å ‰æ ’ç «è µé »ë ¿ì Ãí Öï Úğ äò ÷ó ô ö 
+÷ ø ù ú  û #ü %(*-:	G
+Tan{ˆ‹˜¥²´·ÄÑÓÖÙàíúü"$%'(*+&.6/F0L1Q2U3Z5a7n8{9~;‚<…=Œ?¦@©A®C²E¹FÆHÓJ×LçMêOñP RSTV$W'X.Y;Z@[M]Q_e`ia„b‰cf¶g¼hÉiÌjÒlÚmİnäoñpóq rtu'w3x7yDzG{M}T~W^k‚sƒ‚„‡‡–ˆ£‰°‹¿ŒÂÇÏÒ‘Ù’Û“è”õ–ú™	›+	œ8	;	>	˜A	 M	¢a	£n	¥p	¦‘	§©	¨½	«Ì	¬Ğ	­İ	®à	¯æ	±î	²ñ	³ø	´ı	µ
+·
+¸#
+¹7
+ºF
+»S
+¼W
+¾{
+¿
+Á†
+Ã£
+Ä§
+ÅÂ
+ÆÆ
+È×
+Êİ
+Ëê
+ÌÎÏĞ!Ò%Ô,Õ9×FÙJÛZÜ]Şdßsá‰âŒãç—èšé¡ê®ë»ìÈíÕîİïãñèòõóô
+õ(ö7÷Oø^ùpúû‹üšı ÿ¥ ²¿ÌÏ×ğ
+0	4
+W_hk’˜›¢¯¼ÉÖãğı
+$1 >"K#X$[&j'm(t)w*y+|,~-.ƒ/†012’3•4œ5Ÿ6¡7¤8¦9¨:«;­=º>½?ÑA×CÚDİEäFñGşHIJ%K2L?MLNYOfQsR€SUœVŸW¡X©Y«Z®[µ\¸]º^½_¿aÄbÆcÉdËfØgÛhíjõkølÿmop'r*s-v1w5t6y[|_}czd‰‚Œ„“… †­‡ºˆÇ‰ÔŠá‹îŒû‘!“$”'•.–;—H˜U™bšo›|œ„‘Ÿ¤¡ª¢·£º¤½§¿¨Ì©íªî«ñ­õ®°³´¶·¸!¹$º+»8¼E½M¾d¿gÀjÁlÃrÄuÅxÈzÉ‡ÌÓˆ!  è C:\TC\INCLUDE\IOSTREAM.H R×”  ÀX  Y Z [ öˆ  è‹”8  À        !  &  7  <  M  R  c  h  m  | ˆ  è‹”D  À    " 
+ #  $ ! % . & 8 ' E ( O ) \ + i , v -  .  / › 0 ¥ 1 ª iˆ  è‹”$  À2   4  5  6 5 7 N 8 g 9 € : ™ «ˆ  èŠ”  Àl  m »ˆ  è‹”  À;   =  >  Îˆ  èŠ”  Àd  e Éˆ  è‹”4  À¯   ±  ²  ³ # ´ 2 µ ? ¶ N · [ ¸ e ¹ j º t » € Òˆ  è‹”(  À	¼   ¾  ¿   À < Á U Â n Ã ƒ Ä Æ Å á cˆ  è‹”  À
+Æ   È  É  )ˆ  èŠ”  ÀÛ   ¾ˆ  èŠ”  ÀÙ   Ú  Úˆ  èŠ”  ÀÍ   Î  ñŠ  t
