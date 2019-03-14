@@ -20,7 +20,7 @@ Prerequisites:
 
 - Open Turbo C++ to run the app.
 - In Turbo C++, open MAIN.CPP file from it saved location.
-- Have Fun:sparkles:
+- And Have Fun:wink::sparkles:
 
 ## Contributing
 Want to contribute? I :heart: community feedback and contributions. Please follow [contributing guidelines](CONTRIBUTING.md).
