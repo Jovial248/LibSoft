@@ -35,6 +35,4 @@ It include all my contact details throughtout different platforms. I love to tal
 Licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgments
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to my 12th grade computer science teacher who have helped me throughtout the project
